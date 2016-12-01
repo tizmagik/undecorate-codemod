@@ -36,7 +36,7 @@ const MyClass = withParam('myParam')(noParam(taggedTemplate`my tagged template s
 
 ## Things to be aware of
 
-- Only supports [Class Declaration](https://github.com/wycats/javascript-decorators#class-declaration) decorators
+- Only supports [Class Declaration](https://github.com/wycats/javascript-decorators#class-declaration) decorators. It does not (yet?) support Class Property decorators.
 - It does not "desugar" exactly according to the spec, instead it "undecorates". The difference being it tries to convert the code to what you probably would have written by hand if decorators weren't available (and you weren't using a currying library).
 
 ### Credit & Thanks
