@@ -43,3 +43,4 @@ const MyClass = withParam('myParam')(noParam(taggedTemplate`my tagged template s
 
 - [react-codemod](https://github.com/reactjs/react-codemod) - For examples and where this repo structure is based off of.
 - [ASTExplorer](https://astexplorer.net) - For an excellent playground.
+- [Yehuda Katz and Brian Terlson](https://github.com/tc39/proposals) - For the decorator proposal, of course.
