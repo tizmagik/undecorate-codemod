@@ -4,7 +4,7 @@ A small codemod to "undecorate" Class Declarations that have [decorators](https:
 
 ## Why?
 
-For more on why this was created, see blog post TK TK
+For more on why this was created, see my blog post: [Undecorate Your Decorators](https://jeremygayed.com/undecorate-your-decorators-b7ce0196d32a#.d0qexlbjj)
 
 ## Setup & Run
 
